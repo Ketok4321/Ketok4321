@@ -1,8 +1,6 @@
 ## Hi!
 I'm a young programmer from Poland
 
-This readme is still kinda wip
-
 ### About me:
 ![](https://img.shields.io/badge/he/him-1D1C20?style=for-the-badge&labelColor=2A7BDE&label=pronouns)
 
