@@ -7,7 +7,7 @@
   ## About me:
   ![pronouns: he/him](https://img.shields.io/badge/he/him-1D1C20?style=for-the-badge&labelColor=2A7BDE&label=pronouns)
 
-  ![age: 17yo](https://img.shields.io/badge/17yo-1D1C20?style=for-the-badge&labelColor=2A7BDE&label=age)
+  ![age: 18](https://img.shields.io/badge/17yo-1D1C20?style=for-the-badge&labelColor=2A7BDE&label=age)
 
   ## I mostly program in:
   ![C#](https://img.shields.io/badge/C%23-1D1C20?style=for-the-badge&logo=csharp&labelColor=512BD4&logoColor=white)
